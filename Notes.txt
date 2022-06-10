@@ -1,0 +1,14 @@
+setting up boostrap in react project 
+
+npm install react-boostrap boostrap
+
+and then added the following import in the root style sheet
+
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+
+
+Setting up react router
+
+npm install react-router-dom@6
